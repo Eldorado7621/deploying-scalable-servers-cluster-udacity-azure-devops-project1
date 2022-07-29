@@ -1,0 +1,32 @@
+
+{
+    "properties": {
+        "displayName": "Tagging policies",
+        "description": "This policy denies the deploymemt of resources that do not have tags.",
+        "mode": "Indexed",
+        "metadata": {
+            "version": "1.0.0",
+            "category": "tagging"
+        },
+        "parameters": {
+            "tagName": {
+                "type": "string",
+                       "metadata": {
+            "displayName": "Tag name",
+            "description": "Name of the tag to enforce"
+        },
+                
+            }
+        },
+        "policyRule": {
+"if": {
+                "field": "[concat('tags[', parameters('tagName'), ']')]",
+                "exists": "false"
+            },
+            "then": {
+                "effect": "deny"
+            }
+        }
+    }
+}
+
