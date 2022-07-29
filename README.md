@@ -6,11 +6,11 @@ This is the first project of the Udacity Azure Devops Nanodegree course. In this
 ## Getting Started
 Before you start, you would need to:
 1. Clone this project
-2. Add the following azure login credentials variables to your .bashrc file:
-    i.   export AZ_CLIENT_ID=00000000-0000-0000-0000-000000000000
-    ii.  export AZ_CLIENT_SECRET=000000000000000000000
-    iii. export AZ_TENANT_ID=00000000-0000-0000-0000-000000000000
-    iv.  export AZ_SUSCRIPTION_ID=00000000-0000-0000-0000-000000000000
+2. Add the following azure login credentials variables to your .bashrc file:<br>
+    i.   `export CLIENT_ID=XXX`
+    ii.  `export CLIENT_SECRET=XXX`
+    iii. `export TENANT_ID=XXX`
+    iv.  `export SUSCRIPTION_ID=XXX`
  
  ## Dependencies
 In order to be able to use this project, you need to:
