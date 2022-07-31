@@ -35,3 +35,7 @@ In order to be able to use this project, you need to: <br>
 5. Do not forget to destroy all resources that have been created <br>
 `terraform destroy` <br>
 `az image delete -g packer-rg -n project1-packer-image`
+
+
+##Acknoledgement
+Thanks to [acouprie](https://github.com/acouprie/udacity-azure-project1) for his github resource that helped me when I was stuck
