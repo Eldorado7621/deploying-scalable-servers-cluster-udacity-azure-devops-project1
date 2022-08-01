@@ -38,7 +38,7 @@ In order to be able to use this project, you need to: <br>
 
 ## OUTPUT
 1. Output of the policy assignment
-    <img src="images/policy_assignment.png" />
+    <img src="images/policy_assgnment.png" />
 
 ## Acknowledgement
 Thanks to [acouprie](https://github.com/acouprie/udacity-azure-project1) for his github resource that helped me when I was stuck
