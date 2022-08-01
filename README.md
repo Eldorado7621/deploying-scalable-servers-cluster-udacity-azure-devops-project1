@@ -37,9 +37,9 @@ In order to be able to use this project, you need to: <br>
 `az image delete -g packer-rg -n project1-packer-image`
 
 ## OUTPUT
-1. Output of the policy assignment
+1. Output of the policy assignment <br>
     <img src="images/policy_assgnment.png" height="300px" />
- 2. Output of the terraform deployment
+ 2. Output of the terraform deployment<br>
     <img src="images/terraform1.png" height="300px" />
 
 ## Acknowledgement
