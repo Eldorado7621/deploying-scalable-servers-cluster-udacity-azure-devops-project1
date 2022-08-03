@@ -41,7 +41,9 @@ In order to be able to use this project, you need to: <br>
     <img src="images/policy_assgnment.png" height="300px" />
 2. Output of the terraform apply <br>
     <img src="images/terraform_apply.png" height="300px" />
-3. Output of the terraform deployment on the portal<br>
+3. Output of the policy assignment <br>
+    <img src="images/policy_assignment.png" height="300px" />
+4. Output of the terraform deployment on the portal<br>
     <img src="images/deployed_resources.png" height="300px" />
 
 ## Acknowledgement
