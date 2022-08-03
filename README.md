@@ -39,8 +39,10 @@ In order to be able to use this project, you need to: <br>
 ## OUTPUT
 1. Output of the policy assignment <br>
     <img src="images/policy_assgnment.png" height="300px" />
- 2. Output of the terraform deployment<br>
-    <img src="images/terraform1.png" height="300px" />
+2. Output of the terraform apply <br>
+    <img src="images/terraform_apply.png" height="300px" />
+3. Output of the terraform deployment on the portal<br>
+    <img src="images/deployed_resources.png" height="300px" />
 
 ## Acknowledgement
 Thanks to [acouprie](https://github.com/acouprie/udacity-azure-project1) for his github resource that helped me when I was stuck
