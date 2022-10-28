@@ -1,6 +1,7 @@
 # UDACITY AZURE DEVOPS PROJECT 1
 <hr>
-## Introduction
+# Overview
+
 This is the first project of the Udacity Azure Devops Nanodegree course. In this project, you will write a Packer template to create image and the image would be used by a Terraform code to deploy customizable and scalable web server in Azure.
 
 ## Getting Started
